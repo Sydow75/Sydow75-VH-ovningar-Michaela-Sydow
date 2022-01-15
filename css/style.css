@@ -5,8 +5,12 @@
 body{
 
     margin: 0;
+<<<<<<< Updated upstream
     
     
+=======
+    font-family: cursive;
+>>>>>>> Stashed changes
 }
 
 .row:after{
