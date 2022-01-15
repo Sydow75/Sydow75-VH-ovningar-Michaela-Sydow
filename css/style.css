@@ -5,12 +5,7 @@
 body{
 
     margin: 0;
-<<<<<<< Updated upstream
-    
-    
-=======
-    font-family: cursive;
->>>>>>> Stashed changes
+    font-family: sans-serif;
 }
 
 .row:after{
