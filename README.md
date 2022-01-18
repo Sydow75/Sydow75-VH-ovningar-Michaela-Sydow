@@ -1,2 +1,2 @@
-# Otman, Miki, Jonathan övning 18 jan
+# Othman, Miki, Jonathan övning 18 jan
  Practice on git Desktop
