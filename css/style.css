@@ -1,20 +1,16 @@
 * {
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
   }
 
-body{
 
-    margin: 0;
-    font-family: sans-serif;
-}
 
 .row:after{
     content: "";
   display: table;
   clear: both;
-    
-    
-
 }
 
 .column {
@@ -26,15 +22,15 @@ body{
 
 
 header {
-    background-color: #F1F1F1;
+    background-color: purple;
     text-align: center;
-    padding: 20px;
+    padding: 15px;
   }
 
 
   .nav {
     overflow: hidden;
-    background-color: rgb(88, 85, 85);
+    background-color: black;
     height: 2em;
     
   }
@@ -72,7 +68,7 @@ img{
 
 footer{
     
-        background-color: #F1F1F1;
+        background-color: purple;
         text-align: center;
         padding: 20px;
      
