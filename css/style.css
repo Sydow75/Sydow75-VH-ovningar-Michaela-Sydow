@@ -8,7 +8,7 @@
   }
 
   body{
-    background-color: pink;
+    background-color: lightblue;
   }
   .nav2{
     display: flex;
@@ -47,7 +47,7 @@ header {
     text-align: center;
     padding: 15px;
     color: white;
-    background-color: magenta;
+    background-color: blue;
     text-align: center;
     padding: 15px;
 
@@ -75,7 +75,7 @@ header {
   }
 
 .nav a:hover{
-    background-color: black;
+    background-color: blackblue;
   color: purple;
 }
 
@@ -101,7 +101,7 @@ footer{
 
         
 
-        background-color: magenta;
+        background-color: blue;
         text-align: center;
         padding: 20px;
         color: white;
