@@ -1,2 +1,2 @@
-# Sydow75-VH-ovningar-Michaela-Sydow
+# Othman, Miki, Jonathan övning 18 jan
  Practice on git Desktop
